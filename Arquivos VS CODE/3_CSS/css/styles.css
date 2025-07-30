@@ -41,3 +41,16 @@ h2 {
 #algum-título {
  border-bottom: 4px solid green;
 }
+/* Nome das cores */
+.color-name {
+    color:crimson;
+}
+
+/* Hex */
+.hex {
+    color: #55a398
+}
+
+.hex-2 {
+    color: #99f945;
+}
