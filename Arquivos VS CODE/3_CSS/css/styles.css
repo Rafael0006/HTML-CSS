@@ -54,3 +54,21 @@ h2 {
 .hex-2 {
     color: #99f945;
 }
+
+/* Aprofundando em hex */
+.simple-hex {
+    color: #333;
+}
+
+.simple-hex-2 {
+    color: #a5f;
+}
+
+/* RGB */
+.Rgb {
+    color: rbg(255, 0, 0);
+}
+
+.mixed-rgb {
+    color: rgb(199, 55, 199);
+}
